@@ -13,8 +13,6 @@ function createSocial() {
 						<li><a href=''><i class='fa fa-facebook'></i></a></li> 
 						<li><a href=''><i class='fa fa-twitter'></i></a></li> 
 						<li><a href=''><i class='fa fa-google-plus'></i></a></li> 
-						<li><a href=''><i class='fa fa-dribbble'></i></a></li> 
-						<li><a href=''><i class='fa fa-linkedin'></i></a></li> 
 					</ul> 
 				</div> 
 			</div> 
@@ -69,33 +67,6 @@ function createNavbar(rootIndex) {
 						<ul role="menu" class="sub-menu">
 							<li><a href="${rootPathAux}pages/ejercicios/ejercicio001.html">Ejercicios 1</a></li>
 							<li><a href="${rootPathAux}pages/ejercicios/ejercicio002.html">Ejercicios 2</a></li>
-						</ul>
-					</li>
-
-					<!--<li class="dropdown"><a href="${rootPathAux}pages/portfolio.html">Portfolio <i class="fa fa-angle-down"></i></a>
-						<ul role="menu" class="sub-menu">
-							<li><a href="${rootPathAux}pages/portfolio/galeria.html">Galeria</a></li>
-							<li><a href="${rootPathAux}pages/portfolio/cv.html ">Curriculum Vitae</a></li>
-						</ul>
-					</li>-->
-
-					<li class="dropdown"><a href="${rootPathAux}pages/recursos.html">Recursos <i class="fa fa-angle-down"></i></a>
-						<ul role="menu" class="sub-menu">
-							<li><a href="${rootPathAux}pages/recursos/cheetsheet.html ">Plantilla Triangle</a></li>
-							
-							<!--<li><a href="${rootPathAux}pages/recursos/rec-html.html ">HMTL 5</a></li>-->
-							<li><a href="${rootPathAux}pages/proximamente.html">HMTL 5</a></li>
-
-							<!--<li><a href="${rootPathAux}pages/recursos/rec-css.html ">CSS 3</a></li>-->
-							<li><a href="${rootPathAux}pages/proximamente.html ">CSS 3</a></li>
-
-							<!--<li><a href="${rootPathAux}pages/recursos/rec-bootstrap.html ">BootStrap</a></li>-->
-							<li><a href="${rootPathAux}pages/proximamente.html">BootStrap</a></li>
-
-							<li><a href="${rootPathAux}pages/recursos/rec-javascript.html ">JavaScript</a></li>
-
-							<!--<li><a href="${rootPathAux}pages/recursos/rec-threejs.html ">Three.js</a></li>-->
-							<li><a href="${rootPathAux}pages/proximamente.html">Three.js</a></li>
 						</ul>
 					</li>
 				</ul>
